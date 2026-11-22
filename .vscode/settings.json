@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "trombatimalak",
+        "projectKey": "trombatimalak_credit-quality"
+    }
+}

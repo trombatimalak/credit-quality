@@ -1,0 +1,51 @@
+
+#"age must be non-negative"str
+"LOW"str
+"HIGH"str
+"S3518"bool
+"division by zero"bool
+
+0int
+-1int
+"MEDIUM"str
+
+
+1int
+"a"bool
+I@"Retourne HIGH, MEDIUM ou LOW, ou -1 si le revenu est invalide."strincome (debt (age! ($"H(
+&
+ ("	#binop <#2<:Bbool"
+ ( * ("B.
+,
+ (4"
+ValueError*:B
+ValueError2
+ (4"L*
+(
+	 	(	"
+#binop <=#2<=:Bbool"
+	 	(	 *	 	("
+
+ 
+("î*
+(
+ ("
+#binop !=#2!=:Bbool 
+
+ ("
+#assert#:1
+/
+ (ratio"#dependent-value#*:!
+
+ ("#unknown-value#(
+&
+ ("	#binop >#2>:Bbool"
+ ( * ("
+ ("m!
+
+ ("#unknown-value#(
+&
+ ("	#binop >#2>:Bbool"
+ ( * ("
+ ("
+ (*/C:\Users\MALAK\Desktop\credit_quality\credit.py

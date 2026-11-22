@@ -1,0 +1,6 @@
+organization=trombatimalak
+projectKey=trombatimalak_credit-quality
+serverUrl=https://sonarcloud.io
+dashboardUrl=https://sonarcloud.io/dashboard?id=trombatimalak_credit-quality
+ceTaskId=AaIEpTSvGWIDWcSXqhPE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaIEpTSvGWIDWcSXqhPE
